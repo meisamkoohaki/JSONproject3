@@ -1,0 +1,58 @@
+{
+"companyName" : "Azamoon",
+"headOffice" : "In the heart, closest person",
+"established" : 2019, 
+"active" : true,
+"topProducts" : [
+  {
+    "name" : "A Baby", 
+    "description" : "Asian baby",
+    "price" : "20000 $", 
+    "feature" : [
+      "baby dress", "a ball", "baby mob" 
+    ],
+    "image": "baby.svg"
+  },
+  
+  {
+    "name" : "A Cat Carrier", 
+    "description" : "girl",
+    "price" : "20 $/hr",
+    "feature" : [
+      "cat lover", "nice", "friendly"
+    ],
+    "image" : "cat-carrier.svg"
+  },
+  
+  {
+    "name" : "A Fashion Poppy",
+    "description" : "dog",
+    "price" : "999 $",
+    "feature" : [
+      "quiet", "friendly", "with a wig", "1 year old"
+    ],
+    "image" : "fashion-dog.svg"
+    },
+  
+  {
+    "name" : "A Turkey Hat",
+    "description" : "hat",
+    "price" : "12.99 $",
+    "feature" : [
+      "warm", "fantasy", "soft"
+    ],
+    "image" : "turkey-hat.svg"
+     },
+  
+  {
+    "name" : "A Bloody Bath Mat",
+    "description" : "bath mat",
+    "price" : "12.96 $",
+    "feature" : [
+      "real", "soft"
+    ],
+    "image" : "bloody-bath-mat.svg"
+    }
+  ]
+}
+
